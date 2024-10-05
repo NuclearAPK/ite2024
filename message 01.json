@@ -1,0 +1,11 @@
+{
+  "TypeOfMessage": "change_step",
+  "step": "summary",
+  "phone": "+72221113217",
+  "timestamp": 1725272950.643881,
+  "income": 20000,
+  "order_email": "test@test.ru",
+  "name": "Елена",
+  "car_model": "Camry",
+  "gender": "f"
+}

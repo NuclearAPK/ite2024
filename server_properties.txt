@@ -1,4 +1,5 @@
-
+=================================================================================================
+// EXTERNAL / INTERNAL подход
 
 listener.security.protocol.map: EXTERNAL:SSL,INTERNAL:PLAINTEXT
 
@@ -17,3 +18,18 @@ ssl.truststore.location:
 ssl.truststore.password: password
 
 ssl.truststore.type: JKS
+
+
+
+=================================================================================================
+// Автосоздание топиков (это очень опасный подход!)
+
+auto.create.topics.enable: false
+
+
+
+=================================================================================================
+// Жизненный цикл сообщений
+
+retention.ms
+retention.bytes
