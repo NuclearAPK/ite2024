@@ -3,7 +3,11 @@
 
 ## Подключение к брокеру
 
-Адрес брокера: rc1a-2s9sm9ccoj0v6v5c.mdb.yandexcloud.net:9091
+Адрес брокера: 
+
+```bash
+rc1a-2s9sm9ccoj0v6v5c.mdb.yandexcloud.net:9091
+```
 
 ## Устанавливаем сертификат
 
