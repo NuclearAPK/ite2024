@@ -1,0 +1,5 @@
+security.protocol	SASL_SSL
+ssl.ca.location	C:\Kafka\YandexInternalRootCA.crt
+sasl.mechanism	SCRAM-SHA-512
+sasl.username	ite2024
+sasl.password	ite2024TheBest
