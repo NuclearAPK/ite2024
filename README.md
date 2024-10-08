@@ -20,6 +20,8 @@ rc1a-2s9sm9ccoj0v6v5c.mdb.yandexcloud.net:9091
 ./plumber_win.exe read kafka --topics=testTopic --address="rc1a-2s9sm9ccoj0v6v5c.mdb.yandexcloud.net:9091" --continuous --use-tls --tls-skip-verify --sasl-username=ite2024  --sasl-password=ite2024TheBest
 ```
 
+в параметре --topics нужно указать имя топика, на который будет подписан консьюмер утилиты plumber
+
 ## Устанавливаем сертификат
 
 Linux:
