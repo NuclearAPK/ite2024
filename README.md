@@ -37,4 +37,6 @@ Windows:
 mkdir $HOME\.kafka; curl.exe -o $HOME\.kafka\YandexInternalRootCA.crt https://storage.yandexcloud.net/cloud-certs/CA.pem
 ```
 
+## Общая информация
 
+В мастер классе используется расширение [Kafka1CExtension](https://github.com/NuclearAPK/Kafka1CExtension), которое не является законченным и полноценным продуктом, а всего лишь показывает основные механики, методы и приемы работы с Kafka через внешнюю компоненту. Тем не менее, расширение содержит фреймворк, с помощью которого можно в своих продуктах/решениях построить стабильную и надежную интеграцию с Kafka.
